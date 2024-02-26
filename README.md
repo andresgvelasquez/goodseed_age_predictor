@@ -12,12 +12,15 @@ A la cadena de supermercados Good Seed le gustaría explorar si la ciencia de lo
 
 Para empezar a trabajar en la tarea, tienes un conjunto de fotografías de personas que indican su edad.
 
-# Dependencias
-matplotlib
-pandas
-PIL
-seaborn
-tensorflow
+## Instalación de dependencias
+
+Para instalar las dependencias necesarias para este proyecto, puedes ejecutar el siguiente comando:
+
+```bash
+pip install -r requirements.txt
+```
+**Nota** Esta versión de Boruta puede arrojar un error al utilizar np.float, np.int y np.bool. Basta con reemplazarlos por
+float, int, bool respectivamente en el archivo donde este el error. 
 
 # Descripción de los datos
 El conjunto de datos se almacena en la carpeta `/datasets/faces/` 
