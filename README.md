@@ -11,7 +11,7 @@ A la cadena de supermercados Good Seed le gustaría explorar si la ciencia de lo
 - La tarea, entonces, es construir y evaluar un modelo para verificar la edad de las personas.  
 
 Para empezar a trabajar en la tarea, tienes un conjunto de fotografías de personas que indican su edad.
-
+**Nota:** El dataset con las imagenes no se encuentra disponible. 
 ## Instalación de dependencias
 
 Para instalar las dependencias necesarias para este proyecto, puedes ejecutar el siguiente comando:
